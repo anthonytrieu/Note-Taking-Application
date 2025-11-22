@@ -1,0 +1,14 @@
+.savedNotes {
+    text-align:center;
+    right:100px;
+}
+.storedNote {
+    border-radius: 25px;
+    border-style: solid;
+    text-align:left;
+    
+}
+.title {
+    text-align: center;
+    padding-left: 10px;
+}
