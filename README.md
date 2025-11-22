@@ -74,10 +74,5 @@ The application uses the following environment variables (configured in docker-c
 - `PGPASSWORD`: PostgreSQL password
 - `PGPORT`: PostgreSQL port
 
-## Author
-
-Andy Cheng (CMPT 372 Assignment 3)
-
-## License
 
 ISC
